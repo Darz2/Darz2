@@ -32,4 +32,4 @@ Full list on [Google Scholar](https://scholar.google.com/citations?user=40gzMCAA
 
 [TU Delft profile](https://www.tudelft.nl/staff/d.raju/) · [Google Scholar](https://scholar.google.com/citations?user=40gzMCAAAAAJ)
 
-📫 d.raju@tudelft.nl
+📫 d.raju@tudelft.nl · rajudarshan1997@gmail.com
