@@ -26,7 +26,9 @@ Full list on [Google Scholar](https://scholar.google.com/citations?user=40gzMCAA
 
 - [`CO2-Impurities-ML-Supporting-Data`](https://github.com/Darz2/CO2-Impurities-ML-Supporting-Data) — PC-SAFT and ML supporting data for phase equilibria and interfacial properties of multi-component CO₂ mixtures with impurities
 - [`raspa3-delftblue`](https://github.com/Darz2/raspa3-delftblue) — install script for RASPA3 on TU Delft's DelftBlue HPC cluster
-- [`ENTOPYSCALING`](https://github.com/Darz2/ENTOPYSCALING) — entropy-scaling calculations
+- [`entropy-scaling`](https://github.com/Darz2/entropy-scaling) — excess entropy from integrating the radial distribution function, with the Wang–Frenkel potential
+- [`thermoift`](https://github.com/Darz2/thermoift) — PC-SAFT thermodynamics and interfacial tension for N-component mixtures
+- [`parachorpy`](https://github.com/Darz2/parachorpy) — interfacial tension from empirical correlations, the Parachor model and Winterfeld–Scriven–Davis
 
 ### Elsewhere
 
