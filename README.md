@@ -25,6 +25,7 @@ Full list on [Google Scholar](https://scholar.google.com/citations?user=40gzMCAA
 
 ### Around here
 
+- [`co2-impurities-ml-surrogates`](https://github.com/Darz2/co2-impurities-ml-surrogates) — code behind the ML surrogate paper: PCP-SAFT + cDFT workflows, kij fitting, and the TabPFN / Gaussian-process / symbolic-regression surrogates with active learning
 - [`CO2-Impurities-ML-Supporting-Data`](https://github.com/Darz2/CO2-Impurities-ML-Supporting-Data) — PC-SAFT/cDFT datasets and ML supporting data for the [ML surrogate paper](https://doi.org/10.1021/acs.iecr.6c03388) on phase equilibria and interfacial properties of multi-component CO₂ mixtures with impurities
 - [`raspa3-delftblue`](https://github.com/Darz2/raspa3-delftblue) — install script for RASPA3 on TU Delft's DelftBlue HPC cluster
 - [`entropy-scaling`](https://github.com/Darz2/entropy-scaling) — excess entropy from integrating the radial distribution function, with the Wang–Frenkel potential
